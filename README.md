@@ -1,1 +1,3 @@
-# GravityGame
+# MyGravityGame
+
+Gravity Game
