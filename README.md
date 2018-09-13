@@ -1,11 +1,3 @@
 # MyGravityGame
 
-
-
 Gravity Game
-
-
-
-
-
-
